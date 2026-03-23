@@ -4,7 +4,124 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19263b14-613e-4fbb-a82e-8c6a55bb44d6" name="Changes" comment="" />
+    <list default="true" id="19263b14-613e-4fbb-a82e-8c6a55bb44d6" name="Changes" comment="update cau3">
+      <change afterPath="$PROJECT_DIR$/Cau4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/AnhChupKetQua/KetQuaCau4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/java/com/example/cau4/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/android/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/Runner/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/lib/apps/app.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/lib/utils/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/lib/views/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/lib/widgets/tap_counter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/linux/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/linux/runner/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/linux/runner/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/linux/runner/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cau4/web/manifest.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +130,13 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3BLQxMaBBgsUcMfIG7CvV0UIXtN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +151,9 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/LENOVO/Documents/LapTrinhThietBiDiDong/17032026/NguyenDucTinh_6451071077_BTLT3",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -43,6 +165,45 @@
       <option name="presentableId" value="Default" />
       <updated>1774266116490</updated>
     </task>
+    <task id="LOCAL-00001" summary="update cau1">
+      <option name="closed" value="true" />
+      <created>1774266245535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774266245535</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update cau1">
+      <option name="closed" value="true" />
+      <created>1774266249309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774266249309</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update cau2">
+      <option name="closed" value="true" />
+      <created>1774266386877</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774266386877</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update cau3">
+      <option name="closed" value="true" />
+      <created>1774266439829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774266439829</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update cau1" />
+    <MESSAGE value="update cau2" />
+    <MESSAGE value="update cau3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update cau3" />
   </component>
 </project>
