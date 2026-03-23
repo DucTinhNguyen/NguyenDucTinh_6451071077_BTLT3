@@ -1,0 +1,35 @@
+import 'package:flutter/material.dart';
+
+class ColorBox extends StatefulWidget {
+  const ColorBox({super.key});
+
+  @override
+  State<ColorBox> createState() => _ColorBoxState();
+}
+
+class _ColorBoxState extends State<ColorBox> {
+  Color _color = Colors.blue;
+
+  void _toggleColor() {
+    setState(() {
+      _color = (_color == Colors.blue) ? Colors.red : Colors.blue;
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return GestureDetector(
+      onDoubleTap: _toggleColor,
+      child: Container(
+        width: 150,
+        height: 150,
+        color: _color,
+        alignment: Alignment.center,
+        child: const Text(
+          'Double Tap',
+          style: TextStyle(color: Colors.white),
+        ),
+      ),
+    );
+  }
+}
